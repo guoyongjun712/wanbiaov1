@@ -1,0 +1,104 @@
+<div class="m-index">
+  <header>
+    <ul>
+      <li class="yo-ico">&#xe710;</li>
+      <li>
+        <input type="text" id="txt" class="txt" value="" />
+      </li>
+      <li class="yo-ico">&#xe66e;</li>
+    </ul>
+  </header>
+
+<section id="index-scroll" spa-widget="scroll">
+	<nav class="banner">
+		<div class="swiper-container">
+			<div class="swiper-wrapper">
+				<div class="swiper-slide"><img src="../../../images/image/tp1 (1).jpg"/></div>
+        <div class="swiper-slide"><img src="../../../images/image/tp1 (2).jpg"/></div>
+        <div class="swiper-slide"><img src="../../../images/image/tp1 (3).jpg"/></div>
+        <div class="swiper-slide"><img src="../../../images/image/tp1 (4).jpg"/></div>
+        <div class="swiper-slide"><img src="../../../images/image/tp1 (5).jpg"/></div>
+        <div class="swiper-slide"><img src="../../../images/image/tp1 (6).jpg"/></div>
+			</div>			
+		</div>  
+	</nav>
+	<div class="tubiao">
+		<ul>
+      <li>
+        <i class="yo-ico">&#xe602;</i>
+        <b>选择</b>
+      </li>
+      <li class="active">
+        <i class="yo-ico">&#xe65c;</i>
+        <b>闪购</b>
+      </li>
+      <li>
+        <i class="yo-ico">&#xe791;</i>
+        <b>手机专享</b>
+      </li>
+      <li>
+        <i class="iconfont">&#xf025a;</i>
+        <b>海外购</b>
+      </li>
+		</ul>
+	</div>
+	<!--<div>
+      <ul>
+        <li>
+          <i><img src="/footballSNS/images/img1.jpg" /></i>
+          <b>小丸子呀小丸子</b>
+        </li>
+        <li></li>
+        <li>
+          <i><img src="/footballSNS/images/img2.jpg" /></i>
+          <b>小丸子呀小丸子</b>
+        </li>
+      </ul>
+      <ul>
+        <li>
+          <i><img src="/footballSNS/images/img3.jpg" /></i>
+          <b>小丸子呀小丸子</b>
+        </li>
+        <li></li>
+        <li>
+          <i><img src="/footballSNS/images/img4.jpg" /></i>
+          <b>小丸子呀小丸子</b>
+        </li>
+      </ul>
+      <ul>
+        <li>
+          <i><img src="/footballSNS/images/img1.jpg" /></i>
+          <b>小丸子呀小丸子</b>
+        </li>
+        <li></li>
+        <li>
+          <i><img src="/footballSNS/images/img2.jpg" /></i>
+          <b>小丸子呀小丸子</b>
+        </li>
+      </ul>
+    </div>-->
+</section>
+  <footer>
+    <!--<ul>
+      <li>
+        <i class="yo-ico">&#xe6bb;</i>
+        <b>首页</b>
+      </li>
+      <li class="active">
+        <i class="yo-ico">&#xe65c;</i>
+        <b>发现</b>
+      </li>
+      <li>
+        <i class="yo-ico">&#xe664;</i>
+      </li>
+      <li>
+        <i class="iconfont">&#xe649;</i>
+        <b>我的</b>
+      </li>
+      <li action-type="exit">
+        <i class="yo-ico">&#xe603;</i>
+        <b>退出</b>
+      </li>
+    </ul>-->
+  </footer>
+</div>
